@@ -184,7 +184,7 @@ export default function App() {
                 <p>Good pricing and smooth shopping experience.</p>
               </div>
               <div className="feedback-card">
-                <h4> Adhwik ⭐⭐⭐⭐</h4>
+                <h4> Aadhwik ⭐⭐⭐⭐</h4>
                 <p>Very professional website and support.</p>
               </div>
               <div className="feedback-card">
